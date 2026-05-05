@@ -1,5 +1,6 @@
 # patentlego-ontology
 An open vocabulary for decomposing patents into functional building blocks and mapping how they connect into systems. CC BY-SA 4.0.
+
 I Built the Vocabulary That Patent AI Is Missing — And I'm Giving It Away
 I'm not a software engineer. I'm not a patent attorney. I'm an artist who makes illuminated signs out of layered acrylic and dichromatic film.
 But I've spent a long time thinking about how things connect — how light passes through layers, how systems work together, how pieces that were made independently can combine into something none of them could do alone.
